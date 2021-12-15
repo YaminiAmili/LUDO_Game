@@ -54,6 +54,14 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\MainMenu.cs" />
+     <Compile Include="Assets\Scripts\PathobjectParent.cs" />
+     <Compile Include="Assets\Scripts\PathPoint.cs" />
+     <Compile Include="Assets\Scripts\PlayerPiece\BluePlayerPiece.cs" />
+     <Compile Include="Assets\Scripts\PlayerPiece\GreenPlayerPiece.cs" />
+     <Compile Include="Assets\Scripts\PlayerPiece\PlayerPiece.cs" />
+     <Compile Include="Assets\Scripts\PlayerPiece\RedPayerPiece.cs" />
+     <Compile Include="Assets\Scripts\PlayerPiece\YellowPlayerPiece.cs" />
+     <Compile Include="Assets\Scripts\RollingDice.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
