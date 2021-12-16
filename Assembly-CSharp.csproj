@@ -53,7 +53,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Houses\BlueHome.cs" />
+     <Compile Include="Assets\Scripts\Houses\GreenHome.cs" />
+     <Compile Include="Assets\Scripts\Houses\LudoHome.cs" />
+     <Compile Include="Assets\Scripts\Houses\RedHome.cs" />
+     <Compile Include="Assets\Scripts\Houses\YellowHome.cs" />
      <Compile Include="Assets\Scripts\MainMenu.cs" />
+     <Compile Include="Assets\Scripts\ManagersAndControllers\GameManager.cs" />
      <Compile Include="Assets\Scripts\PathobjectParent.cs" />
      <Compile Include="Assets\Scripts\PathPoint.cs" />
      <Compile Include="Assets\Scripts\PlayerPiece\BluePlayerPiece.cs" />

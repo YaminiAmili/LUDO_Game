@@ -6,15 +6,46 @@ public class PlayerPiece : MonoBehaviour
 {
     public bool canMove;
     public bool moveNow;
-    public int NumberOfStepsToMove;
+    public int numberOfStepsAlreadyMoved;
 
     public PathobjectParent pathsParent;
+    Coroutine moveSteps_Coroutine;
 
     private void Awake()
     {
         pathsParent = FindObjectOfType<PathobjectParent>();
     }
 
+    public void MoveSteps()
+    {
+        moveSteps_Coroutine = StartCoroutine(MoveSteps_Enum());
+    }
+
+
+    IEnumerator MoveSteps_Enum()
+    {
+        yield return new WaitForSeconds(0.25f);
+        int numOfStepsToMove = GameManager.gm.numOfStepsToMove;
+        
+
+        if (canMove)
+        {
+            for (int i = numberOfStepsAlreadyMoved; i < (numberOfStepsAlreadyMoved + numOfStepsToMove); i++)
+            {
+                transform.position = pathsParent.commonPathPoints[i].transform.position;
+                yield return new WaitForSeconds(0.25f);
+
+            }
+        }
+        numberOfStepsAlreadyMoved += numOfStepsToMove;
+
+
+
+        if (moveSteps_Coroutine != null)
+        {
+            StopCoroutine(moveSteps_Coroutine);
+        }
+    }
 
 
 }
