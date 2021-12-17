@@ -119,6 +119,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 547243073}
     m_Modifications:
+    - target: {fileID: 3878302344008449103, guid: 291fee3b36cff8845b5b8298767f1e34,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3878302345146676520, guid: 291fee3b36cff8845b5b8298767f1e34,
         type: 3}
       propertyPath: m_Name
@@ -2121,6 +2126,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2130554074}
     m_Modifications:
+    - target: {fileID: 8552293997780625408, guid: 5f175d8d2e4261a4ab108644939d48a9,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8552293998919901536, guid: 5f175d8d2e4261a4ab108644939d48a9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2308,7 +2318,7 @@ PrefabInstance:
     - target: {fileID: 2959312325455269714, guid: fd7ec68f8347a8542acc9f6555d0f720,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1
+      value: -2
       objectReference: {fileID: 0}
     - target: {fileID: 2959312325455269714, guid: fd7ec68f8347a8542acc9f6555d0f720,
         type: 3}
@@ -2354,6 +2364,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedPlayerPieces (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2959312326593496626, guid: fd7ec68f8347a8542acc9f6555d0f720,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd7ec68f8347a8542acc9f6555d0f720, type: 3}
@@ -2428,7 +2443,7 @@ PrefabInstance:
     - target: {fileID: 882732914284799943, guid: fd96731270c60c54f9202d2ad089b7a0,
         type: 3}
       propertyPath: m_Name
-      value: RollingDice
+      value: RollingDice_Blue
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd96731270c60c54f9202d2ad089b7a0, type: 3}
@@ -4418,6 +4433,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 547243073}
     m_Modifications:
+    - target: {fileID: 3878302344008449103, guid: 291fee3b36cff8845b5b8298767f1e34,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3878302345146676520, guid: 291fee3b36cff8845b5b8298767f1e34,
         type: 3}
       propertyPath: m_Name
@@ -4506,7 +4526,7 @@ PrefabInstance:
     - target: {fileID: 2959312325455269714, guid: fd7ec68f8347a8542acc9f6555d0f720,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1
+      value: -2
       objectReference: {fileID: 0}
     - target: {fileID: 2959312325455269714, guid: fd7ec68f8347a8542acc9f6555d0f720,
         type: 3}
@@ -4552,6 +4572,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedPlayerPieces (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2959312326593496626, guid: fd7ec68f8347a8542acc9f6555d0f720,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd7ec68f8347a8542acc9f6555d0f720, type: 3}
@@ -4928,6 +4953,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 547243073}
     m_Modifications:
+    - target: {fileID: 3878302344008449103, guid: 291fee3b36cff8845b5b8298767f1e34,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3878302345146676520, guid: 291fee3b36cff8845b5b8298767f1e34,
         type: 3}
       propertyPath: m_Name
@@ -5243,6 +5273,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 822866302}
     m_Modifications:
+    - target: {fileID: 4951422433521561401, guid: 7626d8ada6d89d34e8cad51226380616,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4951422434659788377, guid: 7626d8ada6d89d34e8cad51226380616,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5916,6 +5951,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 547243073}
     m_Modifications:
+    - target: {fileID: 3878302344008449103, guid: 291fee3b36cff8845b5b8298767f1e34,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3878302345146676520, guid: 291fee3b36cff8845b5b8298767f1e34,
         type: 3}
       propertyPath: m_Name
@@ -6295,7 +6335,7 @@ PrefabInstance:
     - target: {fileID: 2959312325455269714, guid: fd7ec68f8347a8542acc9f6555d0f720,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1
+      value: -2
       objectReference: {fileID: 0}
     - target: {fileID: 2959312325455269714, guid: fd7ec68f8347a8542acc9f6555d0f720,
         type: 3}
@@ -6341,6 +6381,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedPlayerPieces (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2959312326593496626, guid: fd7ec68f8347a8542acc9f6555d0f720,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd7ec68f8347a8542acc9f6555d0f720, type: 3}
@@ -6454,6 +6499,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2130554074}
     m_Modifications:
+    - target: {fileID: 8552293997780625408, guid: 5f175d8d2e4261a4ab108644939d48a9,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8552293998919901536, guid: 5f175d8d2e4261a4ab108644939d48a9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6656,7 +6706,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1322504374}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.72, y: -2.6, z: 0}
+  m_LocalPosition: {x: -2.72, y: -2.6, z: -1}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1582377677}
@@ -6824,6 +6874,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   numOfStepsToMove: 0
+  rolledDice: {fileID: 0}
 --- !u!4 &1392073338
 Transform:
   m_ObjectHideFlags: 0
@@ -6942,6 +6993,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2130554074}
     m_Modifications:
+    - target: {fileID: 8552293997780625408, guid: 5f175d8d2e4261a4ab108644939d48a9,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8552293998919901536, guid: 5f175d8d2e4261a4ab108644939d48a9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7075,7 +7131,7 @@ PrefabInstance:
     - target: {fileID: 882732914284799943, guid: fd96731270c60c54f9202d2ad089b7a0,
         type: 3}
       propertyPath: m_Name
-      value: RollingDice
+      value: RollingDice_Yellow
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd96731270c60c54f9202d2ad089b7a0, type: 3}
@@ -7139,6 +7195,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 822866302}
     m_Modifications:
+    - target: {fileID: 4951422433521561401, guid: 7626d8ada6d89d34e8cad51226380616,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4951422434659788377, guid: 7626d8ada6d89d34e8cad51226380616,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7512,7 +7573,7 @@ PrefabInstance:
     - target: {fileID: 2959312325455269714, guid: fd7ec68f8347a8542acc9f6555d0f720,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1
+      value: -2
       objectReference: {fileID: 0}
     - target: {fileID: 2959312325455269714, guid: fd7ec68f8347a8542acc9f6555d0f720,
         type: 3}
@@ -7558,6 +7619,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: RedPlayerPieces
+      objectReference: {fileID: 0}
+    - target: {fileID: 2959312326593496626, guid: fd7ec68f8347a8542acc9f6555d0f720,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd7ec68f8347a8542acc9f6555d0f720, type: 3}
@@ -9191,6 +9257,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 822866302}
     m_Modifications:
+    - target: {fileID: 4951422433521561401, guid: 7626d8ada6d89d34e8cad51226380616,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4951422434659788377, guid: 7626d8ada6d89d34e8cad51226380616,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9450,6 +9521,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2130554074}
     m_Modifications:
+    - target: {fileID: 8552293997780625408, guid: 5f175d8d2e4261a4ab108644939d48a9,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8552293998919901536, guid: 5f175d8d2e4261a4ab108644939d48a9,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9854,7 +9930,7 @@ PrefabInstance:
     - target: {fileID: 882732914284799943, guid: fd96731270c60c54f9202d2ad089b7a0,
         type: 3}
       propertyPath: m_Name
-      value: RollingDice
+      value: RollingDice_Green
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd96731270c60c54f9202d2ad089b7a0, type: 3}
@@ -9907,6 +9983,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 822866302}
     m_Modifications:
+    - target: {fileID: 4951422433521561401, guid: 7626d8ada6d89d34e8cad51226380616,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4951422434659788377, guid: 7626d8ada6d89d34e8cad51226380616,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -10094,7 +10175,7 @@ PrefabInstance:
     - target: {fileID: 882732914284799943, guid: fd96731270c60c54f9202d2ad089b7a0,
         type: 3}
       propertyPath: m_Name
-      value: RollingDice
+      value: RollingDice_Red
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd96731270c60c54f9202d2ad089b7a0, type: 3}

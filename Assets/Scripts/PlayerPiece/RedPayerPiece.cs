@@ -4,12 +4,23 @@ using UnityEngine;
 
 public class RedPayerPiece : PlayerPiece
 {
+    RollingDice redHomeRollingDice;
+
+    private void Start()
+    {
+        redHomeRollingDice = GetComponentInParent<RedHome>().rollingDice;
+    }
+
 
     private void OnMouseDown()
     {
-        canMove = true;
+        if(GameManager.gm.rolledDice != null && GameManager.gm.rolledDice == redHomeRollingDice)
+        {
+            canMove = true;
+        }
+        
         MoveSteps();
-        //StartCoroutine("MoveStepsEnum");
+        
     }
 
 
