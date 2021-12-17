@@ -304,6 +304,7 @@ Transform:
   - {fileID: 315618870}
   - {fileID: 1489113238}
   - {fileID: 148161152}
+  - {fileID: 719522682}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -373,29 +374,237 @@ MonoBehaviour:
   - {fileID: 627729521}
   - {fileID: 198197221}
   redPathPoints:
+  - {fileID: 1037684672}
+  - {fileID: 1920946439}
+  - {fileID: 451274936}
+  - {fileID: 1242476583}
+  - {fileID: 1064519533}
+  - {fileID: 158521973}
+  - {fileID: 426290344}
+  - {fileID: 854015617}
+  - {fileID: 211768367}
+  - {fileID: 666290916}
+  - {fileID: 1720935556}
+  - {fileID: 56481612}
+  - {fileID: 740710850}
+  - {fileID: 316894846}
+  - {fileID: 105821685}
+  - {fileID: 1604223668}
+  - {fileID: 114712168}
+  - {fileID: 281125293}
+  - {fileID: 1560772302}
+  - {fileID: 676592440}
+  - {fileID: 1699672984}
+  - {fileID: 421416001}
+  - {fileID: 1394631329}
+  - {fileID: 1875246736}
+  - {fileID: 207836445}
+  - {fileID: 190180230}
+  - {fileID: 1159906694}
+  - {fileID: 1723976455}
+  - {fileID: 170689525}
+  - {fileID: 1293377745}
+  - {fileID: 612348706}
+  - {fileID: 1647804164}
+  - {fileID: 1386063781}
+  - {fileID: 1903682479}
+  - {fileID: 1221964434}
+  - {fileID: 1962883255}
+  - {fileID: 76016617}
+  - {fileID: 1159158283}
+  - {fileID: 1032891167}
+  - {fileID: 564493841}
+  - {fileID: 834798077}
+  - {fileID: 1527578862}
+  - {fileID: 1767489855}
+  - {fileID: 479336891}
+  - {fileID: 931553768}
+  - {fileID: 1608163027}
+  - {fileID: 827643886}
+  - {fileID: 1025852097}
+  - {fileID: 530190401}
+  - {fileID: 1959959662}
+  - {fileID: 627729521}
   - {fileID: 537034555}
   - {fileID: 1936413629}
   - {fileID: 221862463}
   - {fileID: 255236018}
   - {fileID: 206228059}
+  - {fileID: 719522683}
   bluePathPoints:
+  - {fileID: 564493841}
+  - {fileID: 834798077}
+  - {fileID: 1527578862}
+  - {fileID: 1767489855}
+  - {fileID: 479336891}
+  - {fileID: 931553768}
+  - {fileID: 1608163027}
+  - {fileID: 827643886}
+  - {fileID: 1025852097}
+  - {fileID: 530190401}
+  - {fileID: 1959959662}
+  - {fileID: 627729521}
+  - {fileID: 198197221}
+  - {fileID: 1037684672}
+  - {fileID: 1920946439}
+  - {fileID: 451274936}
+  - {fileID: 1242476583}
+  - {fileID: 1064519533}
+  - {fileID: 158521973}
+  - {fileID: 426290344}
+  - {fileID: 854015617}
+  - {fileID: 211768367}
+  - {fileID: 666290916}
+  - {fileID: 1720935556}
+  - {fileID: 56481612}
+  - {fileID: 740710850}
+  - {fileID: 316894846}
+  - {fileID: 105821685}
+  - {fileID: 1604223668}
+  - {fileID: 114712168}
+  - {fileID: 281125293}
+  - {fileID: 1560772302}
+  - {fileID: 676592440}
+  - {fileID: 1699672984}
+  - {fileID: 421416001}
+  - {fileID: 1394631329}
+  - {fileID: 1875246736}
+  - {fileID: 207836445}
+  - {fileID: 190180230}
+  - {fileID: 1159906694}
+  - {fileID: 1723976455}
+  - {fileID: 170689525}
+  - {fileID: 1293377745}
+  - {fileID: 612348706}
+  - {fileID: 1647804164}
+  - {fileID: 1386063781}
+  - {fileID: 1903682479}
+  - {fileID: 1221964434}
+  - {fileID: 1962883255}
+  - {fileID: 76016617}
+  - {fileID: 1159158283}
   - {fileID: 1628451522}
   - {fileID: 480273803}
   - {fileID: 1970558244}
   - {fileID: 1103774928}
   - {fileID: 295469828}
+  - {fileID: 719522683}
   greenPathPoints:
+  - {fileID: 316894846}
+  - {fileID: 105821685}
+  - {fileID: 1604223668}
+  - {fileID: 114712168}
+  - {fileID: 281125293}
+  - {fileID: 1560772302}
+  - {fileID: 676592440}
+  - {fileID: 1699672984}
+  - {fileID: 421416001}
+  - {fileID: 1394631329}
+  - {fileID: 1875246736}
+  - {fileID: 207836445}
+  - {fileID: 190180230}
+  - {fileID: 1159906694}
+  - {fileID: 1723976455}
+  - {fileID: 170689525}
+  - {fileID: 1293377745}
+  - {fileID: 612348706}
+  - {fileID: 1647804164}
+  - {fileID: 1386063781}
+  - {fileID: 1903682479}
+  - {fileID: 1221964434}
+  - {fileID: 1962883255}
+  - {fileID: 76016617}
+  - {fileID: 1159158283}
+  - {fileID: 1032891167}
+  - {fileID: 564493841}
+  - {fileID: 834798077}
+  - {fileID: 1527578862}
+  - {fileID: 1767489855}
+  - {fileID: 479336891}
+  - {fileID: 931553768}
+  - {fileID: 1608163027}
+  - {fileID: 827643886}
+  - {fileID: 1025852097}
+  - {fileID: 530190401}
+  - {fileID: 1959959662}
+  - {fileID: 627729521}
+  - {fileID: 198197221}
+  - {fileID: 1037684672}
+  - {fileID: 1920946439}
+  - {fileID: 451274936}
+  - {fileID: 1242476583}
+  - {fileID: 1064519533}
+  - {fileID: 158521973}
+  - {fileID: 426290344}
+  - {fileID: 854015617}
+  - {fileID: 211768367}
+  - {fileID: 666290916}
+  - {fileID: 1720935556}
+  - {fileID: 56481612}
   - {fileID: 1620958177}
   - {fileID: 2001950405}
   - {fileID: 370313369}
   - {fileID: 943596134}
   - {fileID: 1776375189}
+  - {fileID: 719522683}
   yellowPathPoints:
+  - {fileID: 1159906694}
+  - {fileID: 1723976455}
+  - {fileID: 170689525}
+  - {fileID: 1293377745}
+  - {fileID: 612348706}
+  - {fileID: 1647804164}
+  - {fileID: 1386063781}
+  - {fileID: 1903682479}
+  - {fileID: 1221964434}
+  - {fileID: 1962883255}
+  - {fileID: 76016617}
+  - {fileID: 1159158283}
+  - {fileID: 1032891167}
+  - {fileID: 564493841}
+  - {fileID: 834798077}
+  - {fileID: 1527578862}
+  - {fileID: 1767489855}
+  - {fileID: 479336891}
+  - {fileID: 931553768}
+  - {fileID: 1608163027}
+  - {fileID: 827643886}
+  - {fileID: 1025852097}
+  - {fileID: 530190401}
+  - {fileID: 1959959662}
+  - {fileID: 627729521}
+  - {fileID: 198197221}
+  - {fileID: 1037684672}
+  - {fileID: 1920946439}
+  - {fileID: 451274936}
+  - {fileID: 1242476583}
+  - {fileID: 1064519533}
+  - {fileID: 158521973}
+  - {fileID: 426290344}
+  - {fileID: 854015617}
+  - {fileID: 211768367}
+  - {fileID: 666290916}
+  - {fileID: 1720935556}
+  - {fileID: 56481612}
+  - {fileID: 740710850}
+  - {fileID: 316894846}
+  - {fileID: 105821685}
+  - {fileID: 1604223668}
+  - {fileID: 114712168}
+  - {fileID: 281125293}
+  - {fileID: 1560772302}
+  - {fileID: 676592440}
+  - {fileID: 1699672984}
+  - {fileID: 421416001}
+  - {fileID: 1394631329}
+  - {fileID: 1875246736}
+  - {fileID: 207836445}
   - {fileID: 1126150523}
   - {fileID: 150448711}
   - {fileID: 564793345}
   - {fileID: 1909337243}
   - {fileID: 1883936372}
+  - {fileID: 719522683}
 --- !u!1001 &56481610
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3995,6 +4204,93 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 2207878269673651305, guid: 2e6150395225c484aa9185f0b7114d96,
     type: 3}
   m_PrefabInstance: {fileID: 676592438}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f6aaab57c1d1dc4e9f049e1125b9f3f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &719522681
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 36091893}
+    m_Modifications:
+    - target: {fileID: 233085216210135699, guid: 2e6150395225c484aa9185f0b7114d96,
+        type: 3}
+      propertyPath: m_Name
+      value: CenterHomePoint
+      objectReference: {fileID: 0}
+    - target: {fileID: 4877514871363522117, guid: 2e6150395225c484aa9185f0b7114d96,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4877514871363522117, guid: 2e6150395225c484aa9185f0b7114d96,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4877514871363522117, guid: 2e6150395225c484aa9185f0b7114d96,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4877514871363522117, guid: 2e6150395225c484aa9185f0b7114d96,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4877514871363522117, guid: 2e6150395225c484aa9185f0b7114d96,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4877514871363522117, guid: 2e6150395225c484aa9185f0b7114d96,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4877514871363522117, guid: 2e6150395225c484aa9185f0b7114d96,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4877514871363522117, guid: 2e6150395225c484aa9185f0b7114d96,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4877514871363522117, guid: 2e6150395225c484aa9185f0b7114d96,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4877514871363522117, guid: 2e6150395225c484aa9185f0b7114d96,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4877514871363522117, guid: 2e6150395225c484aa9185f0b7114d96,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2e6150395225c484aa9185f0b7114d96, type: 3}
+--- !u!4 &719522682 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4877514871363522117, guid: 2e6150395225c484aa9185f0b7114d96,
+    type: 3}
+  m_PrefabInstance: {fileID: 719522681}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &719522683 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2207878269673651305, guid: 2e6150395225c484aa9185f0b7114d96,
+    type: 3}
+  m_PrefabInstance: {fileID: 719522681}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1

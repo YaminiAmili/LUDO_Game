@@ -20,7 +20,7 @@ public class RedPayerPiece : PlayerPiece
             {
                if(GameManager.gm.rolledDice == redHomeRollingDice && GameManager.gm.numOfStepsToMove == 6)
                {
-                    MakePlayerReadyToMove();
+                    MakePlayerReadyToMove(pathsParent.redPathPoints);
                     GameManager.gm.numOfStepsToMove = 0;
                     return;
                }
@@ -31,7 +31,7 @@ public class RedPayerPiece : PlayerPiece
                 canMove = true;
             }
         }
-        MoveSteps();
+        MoveSteps(pathsParent.redPathPoints);
     }
 
 
